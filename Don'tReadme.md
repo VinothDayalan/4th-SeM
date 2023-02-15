@@ -36,6 +36,14 @@
 
 ### 20CYS214 - DSA
 
-| Date | Topic Taken |
-|------|-------------|
+| Date | Topic Taken | My research |
+|------|-------------|-------------|
 | 15 Feb | Introduction to DSA and some topics in C datatypes and basics | 
+
+<br />
+<br />
+
+### 20CYS383 - JAVA
+
+My research <br/>
+[CheatSheet](https://learnxinyminutes.com/docs/java/) for java
