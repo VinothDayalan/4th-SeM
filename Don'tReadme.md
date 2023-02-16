@@ -39,11 +39,13 @@
 | Date | Topic Taken | My research |
 |------|-------------|-------------|
 | 15 Feb | Introduction to DSA and some topics in C datatypes and basics | 
+| 16 Feb | Saw about efficiency and [split](https://docs.python.org/3/library/stdtypes.html#string-methods) function in python |
 
 <br />
 <br />
 
 ### 20CYS383 - JAVA
+Tool using [Intellij](https://www.jetbrains.com/idea/) <br/><br/><br/><br>
+#### My research <br/>
+[CheatSheet](https://learnxinyminutes.com/docs/java/) for java <br/>
 
-My research <br/>
-[CheatSheet](https://learnxinyminutes.com/docs/java/) for java
