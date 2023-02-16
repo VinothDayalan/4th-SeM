@@ -45,6 +45,14 @@
 <br />
 <br />
 
+### 21CYS212 - MP
+
+| Date | Topic Taken |
+|------|-------------|
+| 16 Feb | Introduction on Multimedia Processing and [Project topics]() discussed |
+<br />
+<br />
+
 ### 20CYS383 - JAVA
 Tool using [Intellij](https://www.jetbrains.com/idea/) <br/><br/><br/><br>
 #### My research <br/>
